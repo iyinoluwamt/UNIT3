@@ -2,7 +2,7 @@
 
 Submitted by: **Iyinoluwa Tugbobo**
 
-**Flixster** is an app that introduces networking ... [TODO]
+**Flixster** is an app that introduces networking and playing movies
 
 Time spent: **12** hours spent in total
 
